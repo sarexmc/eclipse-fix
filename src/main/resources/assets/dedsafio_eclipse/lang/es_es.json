@@ -1,0 +1,8 @@
+{
+  "item.dedsafio_eclipse.linterna": "Linterna",
+  "entity.dedsafio_eclipse.herobrine": "Herobrine",
+  "itemGroup.dedsafio_eclipse": "DEDsafio Eclipse",
+  "tooltip.dedsafio_eclipse.linterna": "Clic derecho: encender (tarda 2 s) / apagar",
+  "tooltip.dedsafio_eclipse.linterna2": "Se repara con redstone en el yunque",
+  "message.dedsafio_eclipse.burn": "¡Mirar el eclipse te quema los ojos!"
+}

@@ -1,0 +1,8 @@
+{
+  "item.dedsafio_eclipse.linterna": "Flashlight",
+  "entity.dedsafio_eclipse.herobrine": "Herobrine",
+  "itemGroup.dedsafio_eclipse": "DEDsafio Eclipse",
+  "tooltip.dedsafio_eclipse.linterna": "Right click: turn on (2 s warm-up) / off",
+  "tooltip.dedsafio_eclipse.linterna2": "Repair with redstone on an anvil",
+  "message.dedsafio_eclipse.burn": "Staring at the eclipse burns your eyes!"
+}
